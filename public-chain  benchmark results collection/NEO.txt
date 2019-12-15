@@ -1,0 +1,5 @@
+online date:
+https://neo.org/about [available]: https://neo.org/about
+
+throughput:
+1000 TPS [available]: https://docs.neo.org/docs/en-us/basic/whitepaper.html

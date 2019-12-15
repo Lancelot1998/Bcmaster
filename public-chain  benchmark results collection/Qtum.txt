@@ -1,0 +1,5 @@
+online date: 
+2017/9/15 [available]: https://qtum.info/misc/charts
+
+throughput:
+70-100 TPS [available]: https://qtum.org/en/about/faq

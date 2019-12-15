@@ -1,0 +1,11 @@
+online date:
+2009/1/09 [available]: https://bitinfocharts.com/bitcoin/
+
+throughput:
+3-7 TPS, ~3.5 TPS on average 
+[available]: 
+(1) I. Eyal et al. "Bitcoin-NG: A Scalable Blockchain Protocol," NSDI 2016
+(2) Y. Liu et al. "Tornado: Enabling Blockchain in Heterogenerous Internet of Things through a Space-Structured Approach" IEEE IOT J, DOI: 10.1109/JIOT.2019.2954128.
+
+latency (6 confirmation):
+~3600s [available]: https://bitinfocharts.com/bitcoin/

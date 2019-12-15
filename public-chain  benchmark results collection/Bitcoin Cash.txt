@@ -1,0 +1,8 @@
+online date:
+2017/8/2 [available]: https://bitinfocharts.com/bitcoin%20cash/
+
+throughput: 
+23 TPS [available]: https://news.bitcoin.com/stress-test-big-blocks-bch-network-confirms-2m-transactions-in-24-hours/
+
+latency (6 confirmation): 
+~3600s [available]: https://bitinfocharts.com/zh/bitcoin%20cash/

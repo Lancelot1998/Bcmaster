@@ -1,0 +1,6 @@
+online date:
+2013/8/5 [available]: https://coinmarketcap.com/currencies/xrp/
+
+throughput：1500 TPS
+
+latency: 4-5s

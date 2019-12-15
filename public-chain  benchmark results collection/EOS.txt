@@ -1,0 +1,9 @@
+online date:
+2018/6/8 [available]: https://eospark.com/charts
+
+throughput:
+3996 TPS [available]: https://eosweb.net/ and https://eospark.com/
+
+latency:
+198s (in the case where the current height - irreversible block = 378)
+the current height - irreversible block is available on https://eosflare.io/

@@ -1,0 +1,11 @@
+online date:
+2015/7/30 [available]: https://bitinfocharts.com/ethereum/
+
+throughput:
+15-20 TPS, ~6 TPS on average 
+[available]: 
+(1) https://eth.btc.com/
+(2) https://eth.tokenview.com/en/chart/dailyAmountNum
+
+latency (30 confirmation):
+584.5s [available]: https://eth.btc.com/ (16.7s per block) 

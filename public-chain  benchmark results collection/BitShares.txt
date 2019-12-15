@@ -1,0 +1,9 @@
+online date:
+2015/11/13 [available]: https://bitshares.org/
+
+throughput:
+3300 TPS
+
+latency:
+45s (in the case where the current height - irreversible block = 15)
+[available]: current height - irreversible block can be found on https://bts.ai/ and http://www.cryptofresh.com/
