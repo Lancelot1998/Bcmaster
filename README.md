@@ -18,3 +18,5 @@ From the perspective of metrics, Prism currently covers:<br>
 This tool is based on docker technology.<br>
 The mainly involved images contain cadvisor, prometheus, and grafana.<br> 
 
+# Tips
+The resources for deploying private blockchain networks, such as hyperledger fabric, Sawtooth, Burrow, etc., can be found at Lancelot's other repositories.
