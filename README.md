@@ -1,6 +1,5 @@
 # Prism
-A real-time blockchain monitor and resource-related benchmark tool.
-
+A real-time blockchain monitor and resource-related benchmark tool.<br> 
 The current version can conduct the benchmark of eight blockchain projects:
 
 """
