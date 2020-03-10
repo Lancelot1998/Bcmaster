@@ -23,4 +23,8 @@ The data flow is `cadvisor` to `Prometheus` to `Grafana`, which is a famous fram
 * ATG, ATP, ATS: They refer to Automatic Transaction `Genenator`, `Packer`, or `Sender`, which are used to generate `benchmarking workload`.
 
 # Tips
-The resources for deploying private blockchain networks, such as hyperledger fabric, Sawtooth, Burrow, etc., can be found at Lancelot1998's other repositories, e.g., `Burrow-10-node`.
+The resources for deploying private blockchain networks, such as hyperledger fabric, Sawtooth, Burrow, etc., can be found at Lancelot1998's other repositories.<br>
+* Fabric-10-node: Contain some scripts and configuration files for deploying a 10-node `Hyperledger Fabric (v1.0-v1.4)` network.<br>
+* Burrow-10-node: Contain some scripts and configuration files for deploying a 10-node `Hyperledger Burrow` network.<br>
+* Sawtooth-10-node: Contain some scripts and configuration files for deploying a 10-node `Hyperledger Sawtooth (PoET)` network.<br>
+* Iroha-10-node: Contain some scripts and configuration files for deploying a 10-node `Hyperledger Iroha` network.<br>
