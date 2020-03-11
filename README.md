@@ -13,7 +13,7 @@ The current version can conduct the benchmark of `eight` blockchain projects:<br
 From the perspective of metrics, Prism currently covers:<br> 
 * **Throughput** (transactions per second)<br> 
 * **Transaction confirmation latency** (second)<br> 
-* **Resource Efficiency** (CPU, DISK I/O, Network, Memory...)<br> 
+* **Resource Efficiency** (CPU, DISK I/O, Network, Memory, Power...)<br> 
 # Description<br> 
 This tool is based on docker technology.<br>
 The mainly involved images contain cadvisor, prometheus, and grafana.<br> 
