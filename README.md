@@ -1,4 +1,4 @@
-# Prism
+# BCmaster
 A real-time blockchain monitor and resource-related benchmark tool.<br> 
 The current version can conduct the benchmark of `eight` blockchain projects:<br> 
 * **Hyperledger Fabric (v1.1-1.4)**<br> 
