@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-    webchain
+    DDoS_Computation
     ~~~~~~~~
 
-    A http server for computation flood
+    An engine for launching DDoS attacks
 
     :author: Yinqiu Liu
 """
