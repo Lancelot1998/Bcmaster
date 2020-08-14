@@ -14,6 +14,10 @@ From the perspective of metrics, Prism currently covers:<br>
 * **Throughput** (transactions per second)<br> 
 * **Transaction confirmation latency** (second)<br> 
 * **Resource Efficiency** (CPU, DISK I/O, Network, Memory, Power...)<br> 
+* **Stability** (From both peer-level and network-level)<br> 
+* **Security Level** (Under Sybil attacks and DDoS attacks)<br> 
+* **Interactivity** (Data processing and encryption)<br> 
+
 # Description<br> 
 This tool is based on docker technology.<br>
 The mainly involved images contain cadvisor, prometheus, and grafana.<br> 
