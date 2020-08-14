@@ -33,3 +33,6 @@ The resources for deploying private blockchain networks, such as `hyperledger fa
 * [Burrow-10-node](https://github.com/Lancelot1998/Burrow-10-node "悬停显示"): Contain some scripts and configuration files for deploying a 10-node `Hyperledger Burrow` network.<br>
 * [Sawtooth-10-node](https://github.com/Lancelot1998/Sawtooth-10-node "悬停显示"): Contain some scripts and configuration files for deploying a 10-node `Hyperledger Sawtooth (PoET)` network.<br>
 * [Iroha-10-node](https://github.com/Lancelot1998/Iroha-10-node "悬停显示"): Contain some scripts and configuration files for deploying a 10-node `Hyperledger Iroha` network.<br>
+
+# Notice
+This is the 1st version of BCmaster, for detailed usage guidance, please wait for our update!!!
