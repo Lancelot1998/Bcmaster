@@ -23,8 +23,8 @@ This tool is based on docker technology.<br>
 The mainly involved images contain cadvisor, prometheus, and grafana.<br> 
 The data flow is `cadvisor` to `Prometheus` to `Grafana`, which is a famous framework for cluster monitoring.
 * Attacks: This folder contains the codes for launching attacks, including DDoS attacks and Sybil attacks. Note that there also exist several third-party tools that can realize the attacks, e.g., [Hibernet](https:https://github.com/All3xJ/Hibernet "悬停显示") and [slowhttptest](https://github.com/shekyan/slowhttptest "悬停显示").
-* private-chain benchmark results: This folder contains the results of our practical benchmarking on self-deployed `private blockchain networks`.<br>
-* public-chain benchmark results collection: Since we cannot conduct benchmarking on `public blockchain network`. This folder contains the benchmarking results of public blockchain networks collected from public-available `blockchain exporters`.<br>
+* Private-chain benchmark results: This folder contains the results of our practical benchmarking on self-deployed `private blockchain networks`.<br>
+* Public-chain benchmark results collection: Since we cannot conduct benchmarking on `public blockchain network`. This folder contains the benchmarking results of public blockchain networks collected from public-available `blockchain exporters`.<br>
 * ATG, ATP, ATS: They refer to Automatic Transaction `Genenator`, `Packer`, or `Sender`, which are used to generate `benchmarking workload`.
 
 # Tips
