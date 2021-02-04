@@ -1,0 +1,14 @@
+The corresponding paper can be found in:
+
+@inproceedings {194906,
+author = {Ittay Eyal and Adem Efe Gencer and Emin Gun Sirer and Robbert Van Renesse},
+title = {Bitcoin-NG: A Scalable Blockchain Protocol},
+booktitle = {13th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 16)},
+year = {2016},
+isbn = {978-1-931971-29-4},
+address = {Santa Clara, CA},
+pages = {45--59},
+url = {https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal},
+publisher = {{USENIX} Association},
+month = mar,
+}
