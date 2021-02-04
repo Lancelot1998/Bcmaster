@@ -36,3 +36,4 @@ The resources for deploying private blockchain networks, such as `hyperledger fa
 
 # Notice
 This is the 1st version of BCmaster, for detailed usage guidance, please wait for our update!!!
+Some of the statistics in the Fig. 3 of paper "Effective Scaling of Blockchain Beyond Consensus Innovations and Moore's Law: Challenges and Opportunities" are shown in folder public-chain benchmark results collection!!!
