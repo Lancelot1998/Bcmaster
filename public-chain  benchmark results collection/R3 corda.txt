@@ -1,0 +1,3 @@
+“Corda real-world throughput,” https://medium.com/corda/transactions-per-second-tps-de3fb55d60e3.
+
+“Corda maximum throughput,” https://www.corda.net/blog/throughputa-corda-story/.
