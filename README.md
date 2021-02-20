@@ -35,5 +35,5 @@ The resources for deploying private blockchain networks, such as `hyperledger fa
 * [Iroha-10-node](https://github.com/Lancelot1998/Iroha-10-node "悬停显示"): Contain some scripts and configuration files for deploying a 10-node `Hyperledger Iroha` network.<br>
 
 # Notice
-This is the 1st version of BCmaster, for detailed usage guidance, please wait for our update!!!<br>
-Some of the statistics in the Fig. 3 of paper "Effective Scaling of Blockchain Beyond Consensus Innovations and Moore's Law: Challenges and Opportunities" are shown in folder public-chain benchmark results collection!!!
+* This is the 1st version of BCmaster, for detailed usage guidance, please wait for our update!!!<br>
+* Some of the statistics in the Fig. 3 of paper "Effective Scaling of Blockchain Beyond Consensus Innovations and Moore's Law: Challenges and Opportunities" cn be found in folder public-chain benchmark results collection!!!
