@@ -20,7 +20,7 @@ SDK means **S**oftware **D**evelop-ment **K**it.
 |[Conflux](https://confluxnetwork.org/zh/) [[code](https://github.com/Conflux-Chain/conflux-rust)]|Public |$215,035,458.73|178|√|[JSON-RPC (RUST) & JavaScript SDK](https://conflux-chain.github.io/conflux-doc/json-rpc/)|[Fast human-to-machine payments, cooperated with Shanghai government](https://technode.com/2020/01/22/the-chinese-blockchain-startup-taking-on-scalability/)|
 |[DAML](https://daml.com/) [[Code](https://github.com/digital-asset/daml)] | Public | N/A |N/A | √  | [gRPC](https://docs.daml.com/getting-started/installation.html) & [JSON-RPC](https://docs.daml.com/json-api/index.html)| [Digital Asset, a revolutionized supply chain based on DAML smart contracts, cooperated with VMware](https://aws.amazon.com/cn/blockchain/) |
 |[Corda](https://www.corda.net/) [[Code](https://github.com/corda/corda)]|Private |N/A|N/A|√|[Java/Kotlin SDK](https://docs.corda.net/)|[Aerotrax, a Corda-based Dapp for the maintenance and repair tracking of aircraft parts, in the aviation industry](https://www.r3.com/wp-content/uploads/2020/11/US_268_Corda_for_Supply_Chain_FS_V5.pdf)|
-| [Parity](https://parity.io) [[Code](https://github.com/openethereum/parity-ethereum)]|Private |  N/A |N/A|√|[Json-RPC](https://testnets.cardano.org/en/virtual-machines/kevm/resources/rpc-endpoints.md/)|  [Lightweight Ethereum client, to support resource-constrained IoT devices](https://blog.slock.it/tagged/ethereum)|
+| [Parity](https://parity.io) [[Code](https://github.com/openethereum/parity-ethereum)]|Private |  N/A |N/A|√|[JSON-RPC](https://testnets.cardano.org/en/virtual-machines/kevm/resources/rpc-endpoints.md/)|  [Lightweight Ethereum client, to support resource-constrained IoT devices](https://blog.slock.it/tagged/ethereum)|
 |[Hyperledger Fabric](https://www.hyperledger.org/) [[code](https://github.com/hyperledger/fabric)] | Private | N/A | N/A |√ |[REST API & Node.js/Python SDK](https://wiki.hyperledger.org/display/fabric/Hyperledger+Fabric+SDKs)| [My Sensor, a fabric-empowered platform for tracking and certifying the historical series of Radon gas concentration](https://github.com/newham/fabric-iot) |
 |[Hyperledger Sawtooth](https://www.hyperledger.org/use/sawtooth) [[code](https://github.com/hyperledger/sawtooth-core)] | Private | N/A | N/A |√ | [REST API & Go/JavaScript/Python SDK](https://sawtooth.hyperledger.org/docs/core/releases/latest/app_developers_guide/using_the_sdks.html)| [FishNet, a seafood supply chain to ensure the traceability and provenance of fishes](https://demo.bitwise.io/fish/#!/)| 
 | [Quorum](https://consensys.net/quorum) [[Code](https://github.com/ConsenSys/quorum)]|Private |N/A|N/A|√|[JSON-RPC](https://github.com/ConsenSys/quorum/tree/master/rpc) & [JavaScript SDK](https://fisco-bcos-documentation.readthedocs.io/en/latest/docs/api.html)|[Smart Smart contract-based food supply temperature control](https://github.com/chainstack/quorum-iot-tutorial)| 
@@ -30,6 +30,6 @@ SDK means **S**oftware **D**evelop-ment **K**it.
 
 ## Reference
 
-The rank data from [CoinMarket](https://coinmarketcap.com)
+The ranks are extracted from [CoinMarket](https://coinmarketcap.com)
 
 
