@@ -1,7 +1,8 @@
+# Attack Strategy
 The attack strategies adopted by us are similar to those adopted in real-world hackers and security-oriented papers.
 We show the evidences below:
 
-Attacks from real-world hackers:
+**Attacks from real-world hackers:
 
 1. [17 reported DDoS attacks towards Bitfinex](ttps://ris.utwente.nl/ws/portalfiles/portal/92134801/ImpactofDDoSAttacksonCryptocurrencyExchange.pdf)
 
@@ -11,7 +12,7 @@ Attacks from real-world hackers:
 
 4. [Sybil attacks on Monero](ttps://coingeek.com/monero-was-sybil-attacked) 
 
-Attacks in security-oriented papers:
+**Attacks in security-oriented papers:
 
 5. [Simulated DDoS attacks on blockchain, via bandwidth depletion and transaction flooding](https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1219&context=ism)
 
