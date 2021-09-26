@@ -4,13 +4,13 @@ We show the evidences below:
 
 * **Attacks from real-world hackers:**<br>
 
-1. [17 reported DDoS attacks towards Bitfinex](ttps://ris.utwente.nl/ws/portalfiles/portal/92134801/ImpactofDDoSAttacksonCryptocurrencyExchange.pdf)
+1. [17 reported DDoS attacks towards Bitfinex](https://ris.utwente.nl/ws/portalfiles/portal/92134801/ImpactofDDoSAttacksonCryptocurrencyExchange.pdf)
 
 2. [DDoS attack targeted at Bitcoin](http://www.revistaespacios.com/a20v41n03/20410329.htm) 
 
 3. [DDoS attacks on Ethereum attack-net](https://twitter.com/JonnyRhea/status/1286810750896541698?s=20)
 
-4. [Sybil attacks on Monero](ttps://coingeek.com/monero-was-sybil-attacked) 
+4. [Sybil attacks on Monero](https://coingeek.com/monero-was-sybil-attacked) 
 
 * **Attacks in security-oriented papers:**<br>
 
