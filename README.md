@@ -1,4 +1,4 @@
-# BCmaster ([Prism](https:https://github.com/All3xJ/Hibernet "悬停显示"))
+# BCmaster ([Prism](https://arxiv.org/pdf/2001.01865.pdf "悬停显示"))
 A real-time blockchain monitor and comprehensive analyzing tool.<br> 
 The current version can conduct the benchmark of `eight` blockchain projects:<br> 
 * **Hyperledger Fabric (v1.1-1.4)**<br> 
